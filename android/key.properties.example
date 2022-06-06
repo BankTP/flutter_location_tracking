@@ -1,0 +1,4 @@
+storePassword=car_tracking
+keyPassword=car_tracking
+keyAlias=car_tracking
+storeFile=../car_tracking_keystore.jks
